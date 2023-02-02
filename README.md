@@ -1,2 +1,2 @@
 # cdn
-cdn
+cdn for web
